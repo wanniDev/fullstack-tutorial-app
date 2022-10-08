@@ -24,4 +24,5 @@ export const defaultConfig = {
   },
 };
 
+// @ts-ignore
 export default defineConfig(defaultConfig);
